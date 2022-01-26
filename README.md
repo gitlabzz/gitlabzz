@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Springboot, Micronaut, Quarkus and other Microservices related frameworks.
 - 📫 I can be reached at mughal.asim@gmail.com
 
-https://komarev.com/ghpvc/?username=gitlabzz
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=gitlabzz)
 
 <!---
 gitlabzz/gitlabzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
