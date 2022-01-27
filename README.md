@@ -14,7 +14,7 @@
 
 OR 
 
-- 📫 I can be reached at [![gitlabzz.github.io](https://gitlabzz.github.io)
+- 📫 I can be reached at https://gitlabzz.github.io
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=gitlabzz&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/gitlabzz/github-readme-stats)
