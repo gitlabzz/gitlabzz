@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning cloud native and Redhat Operating System trouble shooting, performance optimisation and server hardning.
 
 
-- 💞️ I’m looking to collaborate on Springboot, Micronaut, Quarkus and other Microservices related frameworks.
+- 💞️ I’m looking to collaborate on Java, Groovy, Kotlin, Scala, Springboot, Micronaut, Quarkus and other Microservices related frameworks.
 
 
 - 📫 I can be reached at mughal.asim@gmail.com
