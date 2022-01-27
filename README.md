@@ -10,11 +10,7 @@
 - 💞️ I’m looking to collaborate on Java, Groovy, Kotlin, Scala, Springboot, Micronaut, Quarkus and other Microservices related frameworks.
 
 
-- 📫 I can be reached at mughal.asim@gmail.com
-
-OR 
-
-- 📫 I can be reached at https://gitlabzz.github.io
+- 📫 I am experimenting with MKDocs https://gitlabzz.github.io
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=gitlabzz&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/gitlabzz/github-readme-stats)
